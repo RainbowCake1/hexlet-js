@@ -1,0 +1,23 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/RainbowCake1/hexlet-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RainbowCake1/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/RainbowCake1/hexlet-js#readme",
+  "dependencies": {
+    "loadsh": "^0.0.4"
+  }
+}
