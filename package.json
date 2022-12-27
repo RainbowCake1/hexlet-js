@@ -19,5 +19,8 @@
   "homepage": "https://github.com/RainbowCake1/hexlet-js#readme",
   "dependencies": {
     "loadsh": "^0.0.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.1"
   }
 }
